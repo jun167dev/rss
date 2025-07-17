@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch RSS
         run: |
-          curl -s "https://feeds.tbs.co.jp/rss/tbsradio/TS954.xml?limit=100" -o rss/chiki.xml
+          curl -v -A "Mozilla/5.0" "https://feeds.tbs.co.jp/rss/tbsradio/TS954.xml?limit=100"
 
       - name: Commit and Push
         run: |
