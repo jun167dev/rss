@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>F-Droid Updates</title>
   <id>fdroid-feed-id</id>
-  <updated>2025-08-14T23:45:58.6346656+09:00</updated>
+  <updated>2025-08-15T02:58:57.8686379+09:00</updated>
   <link href="https://f-droid.org/en/packages/org.fdroid.fdroid/" />
   <entry>
     <title>New in version 1.23.1</title>
-    <id>6162739e-8e9c-4411-b633-a968c7d4cb07</id>
-    <updated>2025-08-14T23:45:58.6295781+09:00</updated>
+    <id>8383f3b6-665b-4530-adf8-a78388ec7676</id>
+    <updated>2025-08-15T02:58:57.8634391+09:00</updated>
     <link href="https://f-droid.org/en/packages/org.fdroid.fdroid/" />
     <summary type="html"><![CDATA[* material design 3 (with edge-to-edge, but without dynamic colors) (Thanks proletarius!)<br>* redesign repository details screens (Thanks Thore!)<br>* added logcat file export in expert settings<br>* update target SDK (Android 15 for basic and Android 11 for full)<br>* add backlink from app's page in system settings (Thanks j-m4!)<br>* use app chooser for sharing installed apps and install history (Thanks Thore!)<br>]]></summary>
   </entry>
