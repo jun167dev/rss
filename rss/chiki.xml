@@ -6,7 +6,7 @@
     <link>https://podcasters.spotify.com/pod/show/tbsradio-ss954</link>
     <language>ja</language>
     <copyright>TBS RADIO, Inc.</copyright>
-    <description>ポジティブな提案につなげる「ポジ出し」の精神をモットーに、自由で寛容な社会をつくるため、適切な情報と良質な議論を共有し、一歩先の未来、アップデートされた新しい価値観をリスナーの皆さんと共に作り出します。
+    <description>2013年より続く「知る→わかる→動かす」をコンセプトに、自由で寛容な社会をつくるための良質な議論と情報を共有するニュース番組です。複雑化する社会の中で「何が、なぜ起きているのか」を共に考え、一歩先の未来を探ります。これまでの歩みを大切に、荻上チキと、2026年4月からは片桐千晶(月木金)、山本恵里伽(火)、日比麻音子(水)がパーソナリティーを務めます。
 
 番組作りの参考のため、以下のアンケートにご協力をお願いいたします。
 
@@ -16,7 +16,7 @@ https://www.tbs.co.jp/radio/podcast/en.html
 
 TBS Podcastサイト：https://www.tbsradio.jp/podcast/</description>
     <image>
-      <url>https://megaphone.imgix.net/podcasts/0ed51196-cfbf-11ed-a077-479716a7f0c6/image/ac7854516bffa51883e540d13aac7364.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <url>https://megaphone.imgix.net/podcasts/0ed51196-cfbf-11ed-a077-479716a7f0c6/image/fc5557e6c02c8c3b98ffdb7b92e3b0b7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
       <title>荻上チキ・Session～発信型ニュース・プロジェクト</title>
       <link>https://podcasters.spotify.com/pod/show/tbsradio-ss954</link>
     </image>
@@ -24,7 +24,7 @@ TBS Podcastサイト：https://www.tbsradio.jp/podcast/</description>
     <itunes:type>episodic</itunes:type>
     <itunes:subtitle></itunes:subtitle>
     <itunes:author>TBS RADIO</itunes:author>
-    <itunes:summary>ポジティブな提案につなげる「ポジ出し」の精神をモットーに、自由で寛容な社会をつくるため、適切な情報と良質な議論を共有し、一歩先の未来、アップデートされた新しい価値観をリスナーの皆さんと共に作り出します。
+    <itunes:summary>2013年より続く「知る→わかる→動かす」をコンセプトに、自由で寛容な社会をつくるための良質な議論と情報を共有するニュース番組です。複雑化する社会の中で「何が、なぜ起きているのか」を共に考え、一歩先の未来を探ります。これまでの歩みを大切に、荻上チキと、2026年4月からは片桐千晶(月木金)、山本恵里伽(火)、日比麻音子(水)がパーソナリティーを務めます。
 
 番組作りの参考のため、以下のアンケートにご協力をお願いいたします。
 
@@ -34,7 +34,7 @@ https://www.tbs.co.jp/radio/podcast/en.html
 
 TBS Podcastサイト：https://www.tbsradio.jp/podcast/</itunes:summary>
     <content:encoded>
-      <![CDATA[<p>ポジティブな提案につなげる「ポジ出し」の精神をモットーに、自由で寛容な社会をつくるため、適切な情報と良質な議論を共有し、一歩先の未来、アップデートされた新しい価値観をリスナーの皆さんと共に作り出します。</p>
+      <![CDATA[<p>2013年より続く「知る→わかる→動かす」をコンセプトに、自由で寛容な社会をつくるための良質な議論と情報を共有するニュース番組です。複雑化する社会の中で「何が、なぜ起きているのか」を共に考え、一歩先の未来を探ります。これまでの歩みを大切に、荻上チキと、2026年4月からは片桐千晶(月木金)、山本恵里伽(火)、日比麻音子(水)がパーソナリティーを務めます。</p>
 <p><strong>番組作りの参考のため、以下のアンケートにご協力をお願いいたします。</strong></p>
 <p><a href="https://www.tbs.co.jp/radio/podcast/en.html"><strong>https://www.tbs.co.jp/radio/podcast/en.html</strong></a></p>
 <p>制作：TBSラジオ</p>
@@ -44,9 +44,186 @@ TBS Podcastサイト：https://www.tbsradio.jp/podcast/</itunes:summary>
       <itunes:name>TBS RADIO</itunes:name>
       <itunes:email>tbsrpodcast@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://megaphone.imgix.net/podcasts/0ed51196-cfbf-11ed-a077-479716a7f0c6/image/ac7854516bffa51883e540d13aac7364.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/0ed51196-cfbf-11ed-a077-479716a7f0c6/image/fc5557e6c02c8c3b98ffdb7b92e3b0b7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     <itunes:category text="News">
     </itunes:category>
+    <item>
+      <title>【新聞読み比べ】予算案、年度内成立ならず（荻上チキ）</title>
+      <description>2026年3月31日（火）ニュースコーナー「Daily News Session」より。
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Tue, 31 Mar 2026 13:07:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TBS RADIO</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/8b460304-2cfd-11f1-b344-5fe68d7216cf/image/014b6991b44f8808c7888339468196e2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>2026年3月31日（火）ニュースコーナー「Daily News Session」より。
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>2026年3月31日（火）ニュースコーナー「Daily News Session」より。</p>
+<p><br></p>
+<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
+<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
+<p>パーソナリティ：荻上チキ、片桐千晶</p>
+<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>428</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[8b460304-2cfd-11f1-b344-5fe68d7216cf]]></guid>
+      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS6259952579.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>【特集】過去最多となった小中高生の自殺。今、求められる対策とは（清水康之）</title>
+      <description>【出演】清水康之さん（NPO法人ライフリンク代表）
+
+【特集】過去最多となった小中高生の自殺。今、求められる対策とは
+
+2026年3月31日（火）放送分
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Tue, 31 Mar 2026 13:07:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TBS RADIO</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/92314058-2cfc-11f1-acb1-af42e9702615/image/ecb641e1b62892ff874918c6e96a9d91.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>【出演】清水康之さん（NPO法人ライフリンク代表）
+
+【特集】過去最多となった小中高生の自殺。今、求められる対策とは
+
+2026年3月31日（火）放送分
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>【出演】清水康之さん（NPO法人ライフリンク代表）</p>
+<p>【特集】過去最多となった小中高生の自殺。今、求められる対策とは</p>
+<p>2026年3月31日（火）放送分</p>
+<p><br></p>
+<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
+<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
+<p>パーソナリティ：荻上チキ、片桐千晶</p>
+<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2963</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[92314058-2cfc-11f1-acb1-af42e9702615]]></guid>
+      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS7211385971.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>永井玲衣さん～哲学対話「専門家」ってなんだろう？【FrontLine Session】</title>
+      <description>ゲスト：永井玲衣さん（哲学者）
+
+2026年3月31日（火）「FrontLine Session」より。
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Tue, 31 Mar 2026 13:07:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TBS RADIO</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/dfa831a2-2cfc-11f1-9e06-c772e1dc3d87/image/588ae4b7e5798e225a719855bc560357.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>ゲスト：永井玲衣さん（哲学者）
+
+2026年3月31日（火）「FrontLine Session」より。
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>ゲスト：永井玲衣さん（哲学者）</p>
+<p>2026年3月31日（火）「FrontLine Session」より。</p>
+<p><br></p>
+<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
+<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
+<p>パーソナリティ：荻上チキ、片桐千晶</p>
+<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>2424</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[dfa831a2-2cfc-11f1-9e06-c772e1dc3d87]]></guid>
+      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS7369859207.mp3" length="0" type="audio/mpeg"/>
+    </item>
     <item>
       <title>2026年3月30日（月）ニュース</title>
       <description>2026年3月30日（月）ニュース
@@ -209,6 +386,65 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS5704439375.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
+      <title>野村高文さん～「NO」と言わない！？AIの迎合（おべっか）問題【FrontLine Session】</title>
+      <description>出演：野村高文さん（Podcastプロデューサー、編集者）
+
+2026年3月30日（月）「FrontLine Session」より
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 30 Mar 2026 11:58:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TBS RADIO</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/af10a0fe-2c18-11f1-9634-0baa964a0498/image/588ae4b7e5798e225a719855bc560357.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>出演：野村高文さん（Podcastプロデューサー、編集者）
+
+2026年3月30日（月）「FrontLine Session」より
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>出演：野村高文さん（Podcastプロデューサー、編集者）</p>
+<p>2026年3月30日（月）「FrontLine Session」より</p>
+<p><br></p>
+<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
+<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
+<p>パーソナリティ：荻上チキ、片桐千晶</p>
+<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>1817</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[af10a0fe-2c18-11f1-9634-0baa964a0498]]></guid>
+      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS8354187599.mp3?updated=1774866839" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>【N検Session】最後のセーフティーネット「生活保護」。その現状と課題</title>
       <description>2026年3月30日（月）の毎日新聞N検Sessionは「最後のセーフティーネット『生活保護』。その現状と課題」をテーマにお送りしました。
 
@@ -315,65 +551,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false"><![CDATA[eff19342-2c15-11f1-9ea7-1322635a5c2a]]></guid>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS4475471604.mp3" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>野村高文さん～「NO」と言わない！？AIの迎合（おべっか）問題【FrontLine Session】</title>
-      <description>出演：野村高文さん（Podcastプロデューサー、編集者）
-
-2026年3月30日（月）「FrontLine Session」より
-
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Mon, 30 Mar 2026 11:58:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>TBS RADIO</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/af10a0fe-2c18-11f1-9634-0baa964a0498/image/588ae4b7e5798e225a719855bc560357.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>出演：野村高文さん（Podcastプロデューサー、編集者）
-
-2026年3月30日（月）「FrontLine Session」より
-
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>出演：野村高文さん（Podcastプロデューサー、編集者）</p>
-<p>2026年3月30日（月）「FrontLine Session」より</p>
-<p><br></p>
-<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
-<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
-<p>パーソナリティ：荻上チキ、片桐千晶</p>
-<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>1817</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[af10a0fe-2c18-11f1-9634-0baa964a0498]]></guid>
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS8354187599.mp3?updated=1774866839" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>【特集】AIと戦争～イラン攻撃への実戦投入から見えてきたこと（小野圭司）</title>
@@ -1794,60 +1971,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS6380182031.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
-      <title>【聴く国会】政府、暫定予算案編成の方向で検討（荻上チキ）</title>
-      <description>2026年3月23日（月）ニュースコーナー「Daily News Session」より
-
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Mon, 23 Mar 2026 11:53:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>TBS RADIO</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/086b2722-26a2-11f1-a5c9-aff5a3e53c99/image/014b6991b44f8808c7888339468196e2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>2026年3月23日（月）ニュースコーナー「Daily News Session」より
-
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>2026年3月23日（月）ニュースコーナー「Daily News Session」より</p>
-<p><br></p>
-<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
-<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
-<p>パーソナリティ：荻上チキ、片桐千晶</p>
-<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>516</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[086b2722-26a2-11f1-a5c9-aff5a3e53c99]]></guid>
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS4989757950.mp3" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>坂口孝則さん～イラン攻撃をめぐるサプライチェーンへの影響【FrontLine Session】</title>
       <description>出演：坂口孝則さん（調達・購買コンサルタント）
 
@@ -1905,6 +2028,124 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false"><![CDATA[e0a408e0-26a0-11f1-9059-8b5aa6c287b8]]></guid>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS5997109732.mp3?updated=1774262254" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>【聴く国会】政府、暫定予算案編成の方向で検討（荻上チキ）</title>
+      <description>2026年3月23日（月）ニュースコーナー「Daily News Session」より
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 23 Mar 2026 11:53:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TBS RADIO</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/086b2722-26a2-11f1-a5c9-aff5a3e53c99/image/014b6991b44f8808c7888339468196e2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>2026年3月23日（月）ニュースコーナー「Daily News Session」より
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>2026年3月23日（月）ニュースコーナー「Daily News Session」より</p>
+<p><br></p>
+<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
+<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
+<p>パーソナリティ：荻上チキ、片桐千晶</p>
+<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>516</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[086b2722-26a2-11f1-a5c9-aff5a3e53c99]]></guid>
+      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS4989757950.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>【特集】イラン情勢をめぐり日本はどこへ向かうのか？～高市総理の訪米と日米首脳会談（坂梨祥、涌井文晶）</title>
+      <description>【出演】涌井文晶記者（TBSワシントン支局長）、坂梨祥さん（日本エネルギー経済研究所・中東研究センター長）
+
+【特集】高市総理の訪米と日米首脳会談～イラン情勢をめぐり日本はどこへ向かうのか？
+
+2026年3月23日（月）放送分
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Mon, 23 Mar 2026 11:52:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TBS RADIO</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/8e3e5a46-26a1-11f1-b58a-1355b03c523e/image/ecb641e1b62892ff874918c6e96a9d91.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>【出演】涌井文晶記者（TBSワシントン支局長）、坂梨祥さん（日本エネルギー経済研究所・中東研究センター長）
+
+【特集】高市総理の訪米と日米首脳会談～イラン情勢をめぐり日本はどこへ向かうのか？
+
+2026年3月23日（月）放送分
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>【出演】涌井文晶記者（TBSワシントン支局長）、坂梨祥さん（日本エネルギー経済研究所・中東研究センター長）</p>
+<p>【特集】高市総理の訪米と日米首脳会談～イラン情勢をめぐり日本はどこへ向かうのか？</p>
+<p>2026年3月23日（月）放送分</p>
+<p><br></p>
+<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
+<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
+<p>パーソナリティ：荻上チキ、片桐千晶</p>
+<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3060</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[8e3e5a46-26a1-11f1-b58a-1355b03c523e]]></guid>
+      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS4780606594.mp3?updated=1774269090" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>【N検Session】高市総理も改正に意欲～皇室典範とは</title>
@@ -2028,70 +2269,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false"><![CDATA[7a1ff258-269d-11f1-8810-dfb4eb8cdb6d]]></guid>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS4063120055.mp3" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>【特集】イラン情勢をめぐり日本はどこへ向かうのか？～高市総理の訪米と日米首脳会談（坂梨祥、涌井文晶）</title>
-      <description>【出演】涌井文晶記者（TBSワシントン支局長）、坂梨祥さん（日本エネルギー経済研究所・中東研究センター長）
-
-【特集】高市総理の訪米と日米首脳会談～イラン情勢をめぐり日本はどこへ向かうのか？
-
-2026年3月23日（月）放送分
-
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Mon, 23 Mar 2026 11:52:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>TBS RADIO</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/8e3e5a46-26a1-11f1-b58a-1355b03c523e/image/ecb641e1b62892ff874918c6e96a9d91.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>【出演】涌井文晶記者（TBSワシントン支局長）、坂梨祥さん（日本エネルギー経済研究所・中東研究センター長）
-
-【特集】高市総理の訪米と日米首脳会談～イラン情勢をめぐり日本はどこへ向かうのか？
-
-2026年3月23日（月）放送分
-
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>【出演】涌井文晶記者（TBSワシントン支局長）、坂梨祥さん（日本エネルギー経済研究所・中東研究センター長）</p>
-<p>【特集】高市総理の訪米と日米首脳会談～イラン情勢をめぐり日本はどこへ向かうのか？</p>
-<p>2026年3月23日（月）放送分</p>
-<p><br></p>
-<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
-<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
-<p>パーソナリティ：荻上チキ、片桐千晶</p>
-<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>3060</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[8e3e5a46-26a1-11f1-b58a-1355b03c523e]]></guid>
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS4780606594.mp3?updated=1774269090" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>【南部広美さんの番組降板に関するお知らせ】</title>
@@ -3089,6 +3266,59 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS6889826623.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
+      <title>2026年3月17日（火）ニュース</title>
+      <description>2026年3月17日（火）ニュース
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶（代演）
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Tue, 17 Mar 2026 12:04:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TBS RADIO</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>2026年3月17日（火）ニュース
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶（代演）
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>2026年3月17日（火）ニュース</p>
+<p><br></p>
+<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
+<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
+<p>パーソナリティ：荻上チキ、片桐千晶（代演）</p>
+<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>328</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[fff6bc20-21e0-11f1-b5b4-bf21c797dc95]]></guid>
+      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS1759825345.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>【解説】艦船の派遣めぐり、トランプ氏が圧力～イラン情勢とアフガン（青木健太）</title>
       <description>解説：青木健太さん（中東調査会・研究主幹、国連アフガニスタン支援ミッション政務官などを歴任）
 
@@ -3146,59 +3376,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false"><![CDATA[d5fb465c-21e0-11f1-8559-539b8f43ddfc]]></guid>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS2860657389.mp3" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>2026年3月17日（火）ニュース</title>
-      <description>2026年3月17日（火）ニュース
-
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶（代演）
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Tue, 17 Mar 2026 12:04:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>TBS RADIO</itunes:author>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>2026年3月17日（火）ニュース
-
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶（代演）
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>2026年3月17日（火）ニュース</p>
-<p><br></p>
-<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
-<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
-<p>パーソナリティ：荻上チキ、片桐千晶（代演）</p>
-<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>328</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[fff6bc20-21e0-11f1-b5b4-bf21c797dc95]]></guid>
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS1759825345.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>【聴く国会】艦船派遣めぐる議論は／殺傷能力のある武器輸出に対する反対の声への受け止め</title>
@@ -3903,6 +4080,63 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS1138959679.mp3?updated=1773404112" length="0" type="audio/mpeg"/>
     </item>
     <item>
+      <title>【特集】犯罪被害者代理人とは～被害にあったときどうすれば？（上谷さくら）</title>
+      <description>【テーマ】犯罪被害にあったときどうすればいいのか～犯罪被害者代理人・上谷さくらさんと考える
+
+【出演】上谷さくらさん（弁護士）
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠#ss954⁠⁠⁠
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 13 Mar 2026 12:04:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TBS RADIO</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/a69b81b6-1ece-11f1-9197-778c7e4cdb70/image/ecb641e1b62892ff874918c6e96a9d91.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>【テーマ】犯罪被害にあったときどうすればいいのか～犯罪被害者代理人・上谷さくらさんと考える
+
+【出演】上谷さくらさん（弁護士）
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶
+
+番組HP：⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠#ss954⁠⁠⁠
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>【テーマ】犯罪被害にあったときどうすればいいのか～犯罪被害者代理人・上谷さくらさんと考える</p>
+<p>【出演】上谷さくらさん（弁護士）
+</p>
+<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
+<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
+<p>パーソナリティ：荻上チキ、片桐千晶</p>
+<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠</a></p>
+<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠</a></p>
+<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠#ss954⁠⁠⁠</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>3071</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[a69b81b6-1ece-11f1-9197-778c7e4cdb70]]></guid>
+      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS2479564599.mp3?updated=1773404402" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>目覚めの良い音は105BPM？〜『人と音』をめぐる研究紹介』【Screenless Media Lab.】</title>
       <description>Screenless Media Lab. ウィークリー・リポート
 
@@ -3973,63 +4207,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false"><![CDATA[f825c21c-1ece-11f1-938a-6f32c655b8c7]]></guid>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS9475373359.mp3" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>【特集】犯罪被害者代理人とは～被害にあったときどうすれば？（上谷さくら）</title>
-      <description>【テーマ】犯罪被害にあったときどうすればいいのか～犯罪被害者代理人・上谷さくらさんと考える
-
-【出演】上谷さくらさん（弁護士）
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶
-
-番組HP：⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠#ss954⁠⁠⁠
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Fri, 13 Mar 2026 12:04:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>TBS RADIO</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/a69b81b6-1ece-11f1-9197-778c7e4cdb70/image/ecb641e1b62892ff874918c6e96a9d91.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>【テーマ】犯罪被害にあったときどうすればいいのか～犯罪被害者代理人・上谷さくらさんと考える
-
-【出演】上谷さくらさん（弁護士）
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶
-
-番組HP：⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠#ss954⁠⁠⁠
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>【テーマ】犯罪被害にあったときどうすればいいのか～犯罪被害者代理人・上谷さくらさんと考える</p>
-<p>【出演】上谷さくらさん（弁護士）
-</p>
-<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
-<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
-<p>パーソナリティ：荻上チキ、片桐千晶</p>
-<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠</a></p>
-<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠</a></p>
-<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠#ss954⁠⁠⁠</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>3071</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[a69b81b6-1ece-11f1-9197-778c7e4cdb70]]></guid>
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS2479564599.mp3?updated=1773404402" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>Education NEXT～これからの「学び」第6回：教育者・坪田信貴さん</title>
@@ -4879,60 +5056,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS1735882762.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
-      <title>【コメント】入館難民法の改正案を閣議決定（荻上チキ）</title>
-      <description>2026年3月10日（火）放送分
-
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶（代演）
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Tue, 10 Mar 2026 12:09:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>TBS RADIO</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/5f6beda6-1c69-11f1-8c4d-4b4df7186a0f/image/014b6991b44f8808c7888339468196e2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>2026年3月10日（火）放送分
-
-
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶（代演）
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>2026年3月10日（火）放送分</p>
-<p><br></p>
-<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
-<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
-<p>パーソナリティ：荻上チキ、片桐千晶（代演）</p>
-<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>443</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[5f6beda6-1c69-11f1-8c4d-4b4df7186a0f]]></guid>
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS8983070899.mp3" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
       <title>【解説】「イラン攻撃の終結近い」トランプ大統領、時期は根拠示さず発言（三牧聖子）</title>
       <description>出演：三牧聖子さん（同志社大学・大学院 教授）
 
@@ -4990,6 +5113,60 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false"><![CDATA[18e3b79c-1c69-11f1-8e80-f3515beb3959]]></guid>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS3073940703.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>【コメント】入館難民法の改正案を閣議決定（荻上チキ）</title>
+      <description>2026年3月10日（火）放送分
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶（代演）
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Tue, 10 Mar 2026 12:09:00 -0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TBS RADIO</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/5f6beda6-1c69-11f1-8c4d-4b4df7186a0f/image/014b6991b44f8808c7888339468196e2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary>2026年3月10日（火）放送分
+
+
+
+発信型ニュース・プロジェクト「荻上チキ・Session」
+
+★月～金曜日　17:00～20:00　TBSラジオで生放送
+
+パーソナリティ：荻上チキ、片桐千晶（代演）
+
+番組HP：⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠
+
+番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠⁠⁠#ss954
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>2026年3月10日（火）放送分</p>
+<p><br></p>
+<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
+<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
+<p>パーソナリティ：荻上チキ、片桐千晶（代演）</p>
+<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
+<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>443</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[5f6beda6-1c69-11f1-8c4d-4b4df7186a0f]]></guid>
+      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS8983070899.mp3" length="0" type="audio/mpeg"/>
     </item>
     <item>
       <title>坂梨祥さん〜イラン情勢を語るうえで知っておきたい基礎知識 / イランの最新情勢【FrontLine Session】</title>
@@ -5908,183 +6085,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false"><![CDATA[46e4c7b6-1878-11f1-9b92-5b2cf237280b]]></guid>
       <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS8582613155.mp3" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>【報告】衆議院予算委員会で、省庁別審議 〜総理会見での書面質問の返答とは？（澤田大樹）</title>
-      <description>出演：澤田大樹 記者（TBSラジオ）
-
-2026年3月5日（水）ニュースコーナー「Daily News Session」より。
-
-========================================
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶（南部広美さんはお休み）
-
-番組HP：⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Thu, 05 Mar 2026 12:34:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>TBS RADIO</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/e52496b2-1879-11f1-8a80-4bdf112971e4/image/014b6991b44f8808c7888339468196e2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>出演：澤田大樹 記者（TBSラジオ）
-
-2026年3月5日（水）ニュースコーナー「Daily News Session」より。
-
-========================================
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶（南部広美さんはお休み）
-
-番組HP：⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>出演：澤田大樹 記者（TBSラジオ）</p>
-<p>2026年3月5日（水）ニュースコーナー「Daily News Session」より。</p>
-<p>========================================</p>
-<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
-<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
-<p>パーソナリティ：荻上チキ、片桐千晶（南部広美さんはお休み）</p>
-<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>603</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[e52496b2-1879-11f1-8a80-4bdf112971e4]]></guid>
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS1653125692.mp3" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>【聴く国会】衆議院予算委員会〜旧統一教会問題（荻上チキ）</title>
-      <description>「聴く国会」では、国会でのやりとりなど、背景やポイントを整理しながらお伝えしていきます。
-
-Daily News Session 2026/3/5/OA
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶（南部広美さんはお休み）
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠ss954@tbs.co.jp⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグ：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠#ss954⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Thu, 05 Mar 2026 12:32:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>TBS RADIO</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/35d7125c-1879-11f1-bc8c-3b3c4beb4cf3/image/014b6991b44f8808c7888339468196e2.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>「聴く国会」では、国会でのやりとりなど、背景やポイントを整理しながらお伝えしていきます。
-
-Daily News Session 2026/3/5/OA
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶（南部広美さんはお休み）
-
-番組HP：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠ss954@tbs.co.jp⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ハッシュタグ：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠#ss954⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>「聴く国会」では、国会でのやりとりなど、背景やポイントを整理しながらお伝えしていきます。</p>
-<p>Daily News Session 2026/3/5/OA</p>
-<p>＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝</p>
-<p>発信型ニュース・プロジェクト「荻上チキ・Session」</p>
-<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
-<p>パーソナリティ：荻上チキ、片桐千晶（南部広美さんはお休み）</p>
-<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<u>⁠⁠⁠荻上チキ・Session⁠⁠⁠</u>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組メールアドレス：⁠⁠ss954@tbs.co.jp⁠⁠</p>
-<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<u>⁠⁠⁠@Session_1530⁠⁠⁠</u>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> ハッシュタグ：<a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ <u>⁠⁠⁠#ss954⁠⁠</u>⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>515</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[35d7125c-1879-11f1-bc8c-3b3c4beb4cf3]]></guid>
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS5239639634.mp3" length="0" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>青木理さんと語る〜旧統一教会解散命令を受けて【Frontline Session】</title>
-      <description>ゲスト：青木理さん（ジャーナリスト）
-
-Frontline Session 2026/3/5/OA
-
-==========
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶（南部広美さんはお休み）
-
-番組HP：⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Thu, 05 Mar 2026 12:31:00 -0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>TBS RADIO</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/9c955978-1878-11f1-92d4-9bccc0d62459/image/588ae4b7e5798e225a719855bc560357.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>ゲスト：青木理さん（ジャーナリスト）
-
-Frontline Session 2026/3/5/OA
-
-==========
-
-発信型ニュース・プロジェクト「荻上チキ・Session」
-
-★月～金曜日　17:00～20:00　TBSラジオで生放送
-
-パーソナリティ：荻上チキ、片桐千晶（南部広美さんはお休み）
-
-番組HP：⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠
-
-番組メールアドレス：⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠
-
-番組Xアカウント：⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠ ハッシュタグは ⁠⁠⁠⁠⁠⁠#ss954
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>
-        <![CDATA[<p>ゲスト：青木理さん（ジャーナリスト）</p>
-<p>Frontline Session 2026/3/5/OA</p>
-<p>==========</p>
-<p><strong>発信型ニュース・プロジェクト「荻上チキ・Session」</strong></p>
-<p>★月～金曜日　17:00～20:00　TBSラジオで生放送</p>
-<p>パーソナリティ：荻上チキ、片桐千晶（南部広美さんはお休み）</p>
-<p>番組HP：<a href="https://www.tbsradio.jp/ss954/">⁠⁠⁠⁠⁠⁠荻上チキ・Session⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組メールアドレス：<a href="mailto:ss954@tbs.co.jp">⁠⁠⁠⁠⁠⁠ss954@tbs.co.jp⁠⁠⁠⁠⁠⁠</a></p>
-<p>番組Xアカウント：<a href="https://x.com/Session_1530">⁠⁠⁠⁠⁠⁠@Session_1530⁠⁠⁠⁠⁠⁠</a> ハッシュタグは <a href="https://x.com/search?q=%23ss954">⁠⁠⁠⁠⁠⁠#ss954</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]>
-      </content:encoded>
-      <itunes:duration>1698</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false"><![CDATA[9c955978-1878-11f1-92d4-9bccc0d62459]]></guid>
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/TBS9285789609.mp3?updated=1772711424" length="0" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
