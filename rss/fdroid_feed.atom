@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>F-Droid Updates</title>
   <id>fdroid-feed-id</id>
-  <updated>2026-04-10T02:59:13.8927399+09:00</updated>
+  <updated>2026-04-10T23:45:44.3923696+09:00</updated>
   <link href="https://f-droid.org/en/packages/org.fdroid.fdroid/" />
   <entry>
-    <title>F_Droidサイト構成変更</title>
-    <id>1a79af43-65fe-43a5-bec7-10d99497a840</id>
-    <updated>2026-04-10T02:59:13.8108465+09:00</updated>
+    <title>New in version 2.0-alpha7</title>
+    <id>83eb8bc1-3ed4-4244-bc79-c1fe891a9e98</id>
+    <updated>2026-04-10T23:45:44.3506244+09:00</updated>
     <link href="https://f-droid.org/en/packages/org.fdroid.fdroid/" />
-    <summary type="html"><![CDATA[RssF_DROIDのツールを書き換えてください。]]></summary>
+    <summary type="html"><![CDATA[* material design 3 (with edge-to-edge, but without dynamic colors) (Thanks proletarius!)<br>* redesign repository details screens (Thanks Thore!)<br>* added logcat file export in expert settings<br>* update target SDK (Android 15 for basic and Android 11 for full)<br>* add backlink from app's page in system settings (Thanks j-m4!)<br>* use app chooser for sharing installed apps and install history (Thanks Thore!)<br>]]></summary>
+  </entry>
+  <entry>
+    <title>New in version 1.23.1</title>
+    <id>67a508c9-3a33-4c5a-a956-7620e628a742</id>
+    <updated>2026-04-10T23:45:44.3526959+09:00</updated>
+    <link href="https://f-droid.org/en/packages/org.fdroid.fdroid/" />
+    <summary type="html"><![CDATA[* material design 3 (with edge-to-edge, but without dynamic colors) (Thanks proletarius!)<br>* redesign repository details screens (Thanks Thore!)<br>* added logcat file export in expert settings<br>* update target SDK (Android 15 for basic and Android 11 for full)<br>* add backlink from app's page in system settings (Thanks j-m4!)<br>* use app chooser for sharing installed apps and install history (Thanks Thore!)<br>]]></summary>
   </entry>
 </feed>
