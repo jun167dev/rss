@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>7zip_feed.atom</title>
   <id>7zip_feed.atom-id</id>
-  <updated>2026-04-24T15:59:13.0185730+09:00</updated>
+  <updated>2026-04-28T02:58:41.1183451+09:00</updated>
   <link href="https://www.7-zip.org/" />
   <entry>
-    <title>7-Zip 26.00</title>
-    <id>d9b9fed9-358d-435f-aa24-9ab15380d1aa</id>
-    <updated>2026-04-24T15:59:12.9880353+09:00</updated>
+    <title>7-Zip 26.01</title>
+    <id>67705b95-bdc9-4b3e-800e-1b8c8d52700c</id>
+    <updated>2026-04-28T02:58:41.1064393+09:00</updated>
     <link href="https://www.7-zip.org/" />
-    <summary type="html"><![CDATA[2026-02-12：<a href="https://sourceforge.net/p/sevenzip/discussion/45797/thread/a1f7e08417/">7-Zip 26.00</a><br>]]></summary>
+    <summary type="html"><![CDATA[2026-04-27：<a href="https://sourceforge.net/p/sevenzip/discussion/45797/thread/555e132ba4/">7-Zip 26.01</a><br>]]></summary>
   </entry>
 </feed>
