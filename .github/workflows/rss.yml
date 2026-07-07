@@ -1,0 +1,34 @@
+name: Generate RSS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"  # 毎時実行（必要に応じて変更）
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate RSS
+        run: node generate.js
+
+      - name: Commit RSS
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add rss/*.xml
+          git commit -m "Update RSS" || echo "No changes"
+
+      - name: Push changes
+        run: git push
