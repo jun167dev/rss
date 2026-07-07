@@ -1,9 +1,12 @@
 name: Generate RSS
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"  # 毎時実行（必要に応じて変更）
+    - cron: "0 0 * * *"
 
 jobs:
   build:
