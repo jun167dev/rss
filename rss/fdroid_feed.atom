@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>fdroid_feed.atom</title>
   <id>fdroid_feed.atom-id</id>
-  <updated>2026-06-10T23:45:43.1692587+09:00</updated>
+  <updated>2026-07-14T23:45:40.0956125+09:00</updated>
   <link href="https://f-droid.org/en/packages/org.fdroid.fdroid/" />
   <entry>
-    <title>New in version 2.0-alpha10</title>
-    <id>f465e13f-dbd0-4984-b73c-7f00d13d846a</id>
-    <updated>2026-06-10T23:45:43.1259236+09:00</updated>
+    <title>New in version 2.0-alpha11</title>
+    <id>832c4520-0761-4cf1-a72b-c699805c2f26</id>
+    <updated>2026-07-14T23:45:40.0496756+09:00</updated>
     <link href="https://f-droid.org/en/packages/org.fdroid.fdroid/" />
     <summary type="html"><![CDATA[* UI rewritten from scratch with Kotlin compose<br>* improved search, also searching in descriptions and translations<br>* easier to discover new apps, also highlighting the most downloaded ones<br>* installation approval *before* downloading<br>* multiple updates/downloads at the same time<br>* notifying user of issues with apps (e.g. signing key changed)<br>* optional Material You color theme<br>* improved filtering of lists<br>]]></summary>
   </entry>
   <entry>
     <title>New in version 1.23.1</title>
-    <id>51114599-5a5f-42d7-9149-5494408d9c33</id>
-    <updated>2026-06-10T23:45:43.1267388+09:00</updated>
+    <id>03d37f3a-5909-4035-bc26-290095dbd4ea</id>
+    <updated>2026-07-14T23:45:40.0505813+09:00</updated>
     <link href="https://f-droid.org/en/packages/org.fdroid.fdroid/" />
     <summary type="html"><![CDATA[* material design 3 (with edge-to-edge, but without dynamic colors) (Thanks proletarius!)<br>* redesign repository details screens (Thanks Thore!)<br>* added logcat file export in expert settings<br>* update target SDK (Android 15 for basic and Android 11 for full)<br>* add backlink from app's page in system settings (Thanks j-m4!)<br>* use app chooser for sharing installed apps and install history (Thanks Thore!)<br>]]></summary>
   </entry>
